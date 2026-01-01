@@ -1,21 +1,29 @@
-# Progress
-
-- **features-map**: `specifications/17-project/features-map.md`
-- **summary**: `conversation-summary.md`
-
-## SpecKit Status
-
-| Key | Title | Status | Folder |
-|---|---|---|---|
-| FEAT-001 | User Registration & Login | clarified, planned, specified, tasks-listed | psec-kit-file/FEAT-001/ |
-| FEAT-002 | Events Listing Interface | pending | psec-kit-file/FEAT-002/ |
-| FEAT-003 | Advanced Search & Filtering | clarified, planned, specified, tasks-listed | psec-kit-file/FEAT-003/ |
-| FEAT-004 | Event Details Page | pending | psec-kit-file/FEAT-004/ |
-| FEAT-005 | Organizer Dashboard | pending | psec-kit-file/FEAT-005/ |
-| FEAT-006 | User Profile Dashboard | pending | psec-kit-file/FEAT-006/ |
-| FEAT-007 | Admin Control Panel | pending | psec-kit-file/FEAT-007/ |
-| FEAT-008 | Notifications & Alerts | pending | psec-kit-file/FEAT-008/ |
-| FEAT-009 | Mobile Responsive Design | clarified, planned, specified, tasks-listed | psec-kit-file/FEAT-009/ |
-| FEAT-010 | Arabic Language Support | clarified, planned, specified, tasks-listed | psec-kit-file/FEAT-010/ |
-| FEAT-011 | Privacy & Terms Pages | pending | psec-kit-file/FEAT-011/ |
-| FEAT-012 | Low Bandwidth Optimization | pending | psec-kit-file/FEAT-012/ |
+IyBQcm9ncmVzcwoKLSAqKmZlYXR1cmVzLW1hcCoqOiBgc3BlY2lmaWNhdGlv
+bnMvMTctcHJvamVjdC9mZWF0dXJlcy1tYXAubWRgCi0gKipzdW1tYXJ5Kio6
+IGBjb252ZXJzYXRpb24tc3VtbWFyeS5tZGAKCiMjIFNwZWNLaXQgU3RhdHVz
+Cgp8IEtleSB8IFRpdGxlIHwgU3RhdHVzIHwgRm9sZGVyIHwKfC0tLXwtLS18
+LS0tfC0tLXwKfCBGRUFULTAwMSB8IFVzZXIgUmVnaXN0cmF0aW9uICYgTG9n
+aW4gfCBjbGFyaWZpZWQsIHBsYW5uZWQsIHNwZWNpZmllZCwgdGFza3MtbGlz
+dGVkIHwgcHNlYy1raXQtZmlsZS9GRUFULTAwMS8gfAp8IEZFQVQtMDAyIHwg
+RXZlbnRzIExpc3RpbmcgSW50ZXJmYWNlIHwgcGVuZGluZyB8IHBzZWMta2l0
+LWZpbGUvRkVBVC0wMDIvIHwKfCBGRUFULTAwMyB8IEFkdmFuY2VkIFNlYXJj
+aCAmIEZpbHRlcmluZyB8IGNsYXJpZmllZCwgcGxhbm5lZCwgc3BlY2lmaWVk
+LCB0YXNrcy1saXN0ZWQgfCBwc2VjLWtpdC1maWxlL0ZFQVQtMDAzLyB8Cnwg
+RkVBVC0wMDQgfCBFdmVudCBEZXRhaWxzIFBhZ2UgfCBwZW5kaW5nIHwgcHNl
+Yy1raXQtZmlsZS9GRUFULTAwNC8gfAp8IEZFQVQtMDA1IHwgT3JnYW5pemVy
+IERhc2hib2FyZCB8IHBlbmRpbmcgfCBwc2VjLWtpdC1maWxlL0ZFQVQtMDA1
+LyB8CnwgRkVBVC0wMDYgfCBVc2VyIFByb2ZpbGUgRGFzaGJvYXJkIHwgcGVu
+ZGluZyB8IHBzZWMta2l0LWZpbGUvRkVBVC0wMDYvIHwKfCBGRUFULTAwNyB8
+IEFkbWluIENvbnRyb2wgUGFuZWwgfCBwZW5kaW5nIHwgcHNlYy1raXQtZmls
+ZS9GRUFULTAwNy8gfAp8IEZFQVQtMDA4IHwgTm90aWZpY2F0aW9ucyAmIEFs
+ZXJ0cyB8IHBlbmRpbmcgfCBwc2VjLWtpdC1maWxlL0ZFQVQtMDA4LyB8Cnwg
+RkVBVC0wMDkgfCBNb2JpbGUgUmVzcG9uc2l2ZSBEZXNpZ24gfCBjbGFyaWZp
+ZWQsIHBsYW5uZWQsIHNwZWNpZmllZCwgdGFza3MtbGlzdGVkIHwgcHNlYy1r
+aXQtZmlsZS9GRUFULTAwOS8gfAp8IEZFQVQtMDEwIHwgQXJhYmljIExhbmd1
+YWdlIFN1cHBvcnQgfCBjbGFyaWZpZWQsIHBsYW5uZWQsIHNwZWNpZmllZCwg
+dGFza3MtbGlzdGVkIHwgcHNlYy1raXQtZmlsZS9GRUFULTAxMC8gfAp8IEZF
+QVQtMDExIHwgUHJpdmFjeSAmIFRlcm1zIFBhZ2VzIHwgY2xhcmlmaWVkLCBw
+bGFubmVkLCBzcGVjaWZpZWQsIHRhc2tzLWxpc3RlZCB8IHBzZWMta2l0LWZp
+bGUvRkVBVC0wMTEvIHwKfCBGRUFULTAxMiB8IExvdyBCYW5kd2lkdGggT3B0
+aW1pemF0aW9uIHwgcGVuZGluZyB8IHBzZWMta2l0LWZpbGUvRkVBVC0wMTIv
+IHwK
