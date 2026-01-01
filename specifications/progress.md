@@ -12,8 +12,8 @@
 | FEAT-003 | Advanced Search & Filtering | clarified, planned, specified, tasks-listed | psec-kit-file/FEAT-003/ |
 | FEAT-004 | Event Details Page | pending | psec-kit-file/FEAT-004/ |
 | FEAT-005 | Organizer Dashboard | pending | psec-kit-file/FEAT-005/ |
-| FEAT-006 | User Profile Dashboard | clarified, planned, specified, tasks-listed | psec-kit-file/FEAT-006/ |
-| FEAT-007 | Admin Control Panel | pending | psec-kit-file/FEAT-007/ |
+| FEAT-006 | User Profile Dashboard | pending | psec-kit-file/FEAT-006/ |
+| FEAT-007 | Admin Control Panel | clarified, planned, specified, tasks-listed | psec-kit-file/FEAT-007/ |
 | FEAT-008 | Notifications & Alerts | pending | psec-kit-file/FEAT-008/ |
 | FEAT-009 | Mobile Responsive Design | pending | psec-kit-file/FEAT-009/ |
 | FEAT-010 | Arabic Language Support | pending | psec-kit-file/FEAT-010/ |
