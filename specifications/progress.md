@@ -1,33 +1,21 @@
-# حالة المشروع – Progress & How to Use
+# Progress
 
-> **ملف مركزي** يوضح وضع المشروع الحالي **و** كيفية استخدام القالب. يُحدَّث بعد كل  تعديل .
+- **features-map**: `specifications/17-project/features-map.md`
+- **summary**: `conversation-summary.md`
 
----
+## SpecKit Status
 
-## 📍 انشاء SpecKit للميزات
-
-> **القيم الممكنة**: `NotStarted`, `InProgress`, `Done`, `Skipped`
-
-| توليد speckit للميزة  |توليد كود للميزة| الوصف | ID الميزة | اسم الميزة |ملاحظات|
-|---------|-------|-------|--------|---------|---------|
-| تم او لم يتم | تم او لم يتم | وصف الميزة | نفس IDالموجود في features map|نفس الاسم الموجود في features map  |
-| تم او لم يتم | تم او لم يتم | وصف الميزة | نفس IDالموجود في features map|نفس الاسم الموجود في features map  |
-| تم او لم يتم | تم او لم يتم | وصف الميزة | نفس IDالموجود في features map|نفس الاسم الموجود في features map  |
-
-
----
-
-### التقنيات الرئيسية
-
-- **Backend**: _(مثال: `.NET 8 + ABP Framework`)_
-- **Frontend**: _(مثال: `Angular 17`)_
-- **قاعدة البيانات**: _(مثال: `PostgreSQL` أو `SQL Server`)_
-- **أخرى**: _(Docker, Redis, ...)_
-
----
-
-
-- **عدد الميزات الإجمالي**: _(سيُملأ من features-map.md)_
-- **الميزات المكتملة**: _(Done)_
-- **الميزات قيد التنفيذ**: _(In-Progress)_
-- **الميزات المخططة**: _(Planned)_
+| Key | Title | Status | Folder |
+|---|---|---|---|
+| FEAT-001 | User Registration & Login | pending | psec-kit-file/FEAT-001/ |
+| FEAT-002 | Events Listing Interface | pending | psec-kit-file/FEAT-002/ |
+| FEAT-003 | Advanced Search & Filtering | pending | psec-kit-file/FEAT-003/ |
+| FEAT-004 | Event Details Page | pending | psec-kit-file/FEAT-004/ |
+| FEAT-005 | Organizer Dashboard | pending | psec-kit-file/FEAT-005/ |
+| FEAT-006 | User Profile Dashboard | pending | psec-kit-file/FEAT-006/ |
+| FEAT-007 | Admin Control Panel | pending | psec-kit-file/FEAT-007/ |
+| FEAT-008 | Notifications & Alerts | pending | psec-kit-file/FEAT-008/ |
+| FEAT-009 | Mobile Responsive Design | pending | psec-kit-file/FEAT-009/ |
+| FEAT-010 | Arabic Language Support | pending | psec-kit-file/FEAT-010/ |
+| FEAT-011 | Privacy & Terms Pages | pending | psec-kit-file/FEAT-011/ |
+| FEAT-012 | Low Bandwidth Optimization | pending | psec-kit-file/FEAT-012/ |
