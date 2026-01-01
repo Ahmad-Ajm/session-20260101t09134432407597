@@ -16,6 +16,6 @@
 | FEAT-007 | Admin Control Panel | pending | psec-kit-file/FEAT-007/ |
 | FEAT-008 | Notifications & Alerts | pending | psec-kit-file/FEAT-008/ |
 | FEAT-009 | Mobile Responsive Design | clarified, planned, specified, tasks-listed | psec-kit-file/FEAT-009/ |
-| FEAT-010 | Arabic Language Support | pending | psec-kit-file/FEAT-010/ |
+| FEAT-010 | Arabic Language Support | clarified, planned, specified, tasks-listed | psec-kit-file/FEAT-010/ |
 | FEAT-011 | Privacy & Terms Pages | pending | psec-kit-file/FEAT-011/ |
 | FEAT-012 | Low Bandwidth Optimization | pending | psec-kit-file/FEAT-012/ |
