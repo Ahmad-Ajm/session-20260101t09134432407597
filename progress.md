@@ -1,6 +1,6 @@
 # Progress
 
-- **features-map**: `specifications/17-project/features-map.md`
+- **features-map**: `features-map.md`
 - **summary**: `conversation-summary.md`
 
 ## SpecKit Status
