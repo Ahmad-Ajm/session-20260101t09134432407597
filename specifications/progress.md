@@ -5,5 +5,6 @@
 
 ## SpecKit Status
 
-| Key | Title | Status | Folder |
-|---|---|---|---|
+| Key      | Title                      | Status     | Folder                           |
+|----------|----------------------------|------------|----------------------------------|
+| FEAT-001 | User Registration & Login  | specified  | 17-project/FEAT-001              |
