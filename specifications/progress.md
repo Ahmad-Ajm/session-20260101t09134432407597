@@ -8,7 +8,7 @@
 | Key | Title | Status | Folder |
 |---|---|---|---|
 | FEAT-001 | User Registration & Login | clarified, planned, specified, tasks-listed | psec-kit-file/FEAT-001/ |
-| FEAT-002 | Events Listing Interface | pending | psec-kit-file/FEAT-002/ |
+| FEAT-002 | Events Listing Interface | clarified, planned, specified, tasks-listed | psec-kit-file/FEAT-002/ |
 | FEAT-003 | Advanced Search & Filtering | pending | psec-kit-file/FEAT-003/ |
 | FEAT-004 | Event Details Page | pending | psec-kit-file/FEAT-004/ |
 | FEAT-005 | Organizer Dashboard | pending | psec-kit-file/FEAT-005/ |
